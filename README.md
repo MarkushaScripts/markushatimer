@@ -1,5 +1,4 @@
 [focus_timer_web_app-2.html](https://github.com/user-attachments/files/22612644/focus_timer_web_app-2.html)
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
